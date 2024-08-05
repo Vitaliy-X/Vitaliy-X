@@ -1,10 +1,14 @@
 ## Hi there 👋 I'm a computer technology student at ITMO University
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-X&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-X&langs_count=10&layout=compact&theme=merko" width="400px"/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=Vitaliy-X&color=6B8E23)
+## My Skills
 
-<div align="left">
+Here are some of the technologies and tools I work with:
+
+<div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
