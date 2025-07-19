@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a computer technology student at ITMO University
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-X&langs_count=14&layout=compact&theme=merko" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-X&langs_count=14&layout=compact&theme=merko&hide=html,css,jupyter%20notebook" width="400px"/>
 </div>
 
 ## My Skills
